@@ -1,9 +1,9 @@
-#Quest html e css avançado
+# Quest html e css avançado
 
-##Sobre
+## Sobre
 o intuito deste projeto é conseguir fazer aplicar meus conhecimentos adquiridos através do curso devquest, onde estou aprendi a utilizar o html e css, usando codigo limpo, semantico e oraganizado
 
-##Tecnologias usadas
+## Tecnologias usadas
 
 - HTML
 - CSS
